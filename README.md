@@ -1,4 +1,5 @@
-### Hi there 👋
+![Nyah-Macklin-Github-Banner](https://user-images.githubusercontent.com/60084237/224138175-ff8b6d74-6e23-42ff-87f7-17dba0b96f21.gif)
+
 
 <!--
 **MacklinEngineering/MacklinEngineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
